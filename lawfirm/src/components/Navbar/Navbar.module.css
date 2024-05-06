@@ -1,0 +1,14 @@
+.navitems{
+    color: white;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    column-gap: 30px;
+    margin: 10px;
+}
+
+.item{
+    margin: 10px;
+    font-family: "Inter";
+    cursor: pointer;
+}
